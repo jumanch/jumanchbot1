@@ -260,4 +260,4 @@ async def on_ready():
     await client.change_presence(status=discord.Status.idle, activity=game)
     print('Ya estoy online!')
 
-client.run("NTczODE4OTIwNTQ1NTUwMzM4.XMwZNw.9oZMRBa5cT37ZUqax5k5ZBJiAnw")
+client.run("TOKEN_KEY")
